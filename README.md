@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hello, I'm Faiz Abubakar
 
-<!--
-**Faiz-abubakar/Faiz-Abubakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Tech+Writer+%26+Speaker)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+```python
+class AboutMe:
+    def __init__(self):
+        self.name = "Faiz Abubakar"
+        self.role = "Full Stack Developer"
+        self.passion = "Building scalable applications"
+        self.current_focus = "Next.js & TypeScript"
+        self.hobbies = Watching Movies, Hiking, Gaming, Surfing
+    
+    def __str__(self):
+        return f"{self.name} - {self.role}"
+    
+me = AboutMe()
+print(me)
