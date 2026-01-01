@@ -47,6 +47,11 @@ I enjoy continuous learning, collaboration, and turning ideas into impactful dig
   <img src="https://raw.githubusercontent.com/Faiz-abubakar/Faiz-abubakar/output/github-contribution-grid-snake.svg" />
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Faiz-abubakar/Faiz-abubakar/output/github-contribution-grid-snake.svg" />
+</p>
 
 
 ## 🌟 Featured Projects
@@ -56,15 +61,6 @@ I enjoy continuous learning, collaboration, and turning ideas into impactful dig
 
 ### 🚀 [AI Chatbot](https://github.com/Faiz-abubakar/Knightbot-MD)
 📝 An autonomus AI Chatbot
-
-## 📈 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FaizAbu&theme=onedark&no-frame=true&row=2&column=4" />
-</p>
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/FaizAbu/FaizAbu/output/github-contribution-grid-snake.svg)
 
 ## 📫 Connect With Me
 
