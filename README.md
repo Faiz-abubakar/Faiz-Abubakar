@@ -1,8 +1,20 @@
-# 👋 Hi, I'm Faiz Abubakar
+## 👨‍💻 About Me
 
-🚀 **Full Stack Developer | Open Source Contributor | Tech Enthusiast**
+I’m **Faiz Abubakar**, a passionate **Full Stack Developer, Graphics Designer, and AI enthusiast** based in Kenya 🇰🇪.  
+I am a **graduate of Mount Kenya University**, where I built a strong foundation in technology, problem-solving, and creative thinking.
 
-I build scalable web applications and contribute to open source projects. Passionate about clean code, DevOps, and sharing knowledge.
+I’m the **Founder & CEO of Faiz Graphics Design and Online Services (FGD&OS)**, established in 2018 and officially registered in 2022. Through FGD&OS, I’ve supported students, startups, and institutions with **web development, graphics design, online services, and digital solutions**.
+
+I also run **Faiz Computer and AI Academy**, an initiative focused on equipping learners with **computer skills, programming fundamentals, and practical Artificial Intelligence knowledge**.
+
+My long-term goal is to become an **expert in Artificial Intelligence and Software Engineering**, with a strong focus on:
+- Building scalable, real-world applications  
+- Mastering AI concepts and applied machine learning  
+- Contributing to open-source projects  
+- Solving real problems using technology  
+
+I enjoy continuous learning, collaboration, and turning ideas into impactful digital products. I believe in building not just software — but **value, community, and long-term partnerships**.
+
 
 ## 🔧 Technologies & Tools
 
@@ -25,16 +37,17 @@ I build scalable web applications and contribute to open source projects. Passio
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-## 📊 GitHub Stats
+## 🔄 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FaizAbu&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizAbu&layout=compact&theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Faiz-abubakar&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaizAbu&theme=radical" />
+  <img src="https://raw.githubusercontent.com/Faiz-abubakar/Faiz-abubakar/output/github-contribution-grid-snake.svg" />
 </p>
+
+
 
 ## 🌟 Featured Projects
 
